@@ -1,0 +1,11 @@
+I would like to suggest a tool that would make Bitcoin related giveaways on Twitter transparent and cheat-free. 
+
+Example: I will give $11,294 or a Bitcoin to someone random who retweets this in the next 72 hours (must be following me so I can dm you)
+https://twitter.com/pulte/status/1160167954220277760
+
+Bill Pulte wants to do a cash or bitcoin giveaway. It is going to be random and the sample set will be selected from the people who retweet the tweet.
+Can we build a btcpayserver tool that collects the data from this tweet, forms up a sample set and then randomly selects from the pool. 
+
+Another good usecase would be for CashApp -- Cashapp has CashFridays and they somewhat randomly give away bitcoin to its users who mention their cashapp names under the tweet.
+
+This could easily evolve into self hosted lotteries with timelocked bitcoins.
